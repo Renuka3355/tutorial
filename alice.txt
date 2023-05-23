@@ -2,4 +2,4 @@ Hello Everyone my name is renuka
 iam very passionate about learning new technologies
 I have knowledge on frontend and backend technologies
 anything more to know about me
-Hii now i could able to use push my local files into remote repository
+Hii now i could able to push my local files into remote repository
